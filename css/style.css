@@ -61,16 +61,16 @@ h1 span,
 h2 span,
 h3 span,
 h4 span {
-	color: #339BEB;
+	color: #6FC833;
 }
 .text-colored {
-	color: #55acee;
+	color: #6FC833;
 }
 a {
-	color: #55acee;
+	color: #6FC833;
 }
 a:hover {
-	color: #339BEB;
+	color: #6FC833;
 }
 a:focus,
 a:active {
@@ -226,7 +226,7 @@ blockquote {
 	background-color: rgba(0, 0, 0, 0.7);
 }
 .translucent-bg.blue:after {
-	background-color: rgba(85, 172, 238, 0.7);
+	background-color: #55acee;
 }
 .translucent-bg .container {
 	z-index: 3;
@@ -427,7 +427,7 @@ textarea {
 	border-radius: 0px;
 }
 .modal-header {
-	background-color: #55acee;
+	background-color: #6FC833;
 	color: #ffffff;
 }
 .modal-header h4 {
@@ -598,30 +598,13 @@ textarea {
 	-ms-transition: all 0.2s ease-in-out;
 	transition: all 0.2s ease-in-out;
 }
-.social-links li.twitter a:hover {
-	color: #55acee;
-}
-.social-links li.skype a:hover {
-	color: #00aff0;
-}
 .social-links li.linkedin a:hover {
 	color: #0976b4;
-}
-.social-links li.googleplus a:hover {
-	color: #dd4b39;
-}
-.social-links li.youtube a:hover {
-	color: #b31217;
-}
-.social-links li.flickr a:hover {
-	color: #ff0084;
 }
 .social-links li.facebook a:hover {
 	color: #3b5998;
 }
-.social-links li.pinterest a:hover {
-	color: #cb2027;
-}
+
 
 /* Isotope Items
 ---------------------------------- */
